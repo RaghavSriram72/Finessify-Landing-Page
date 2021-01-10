@@ -1386,7 +1386,7 @@ p {
 .team .member .pic {
   border-radius: 4px;
   overflow: hidden;
-  max-height:  261px;
+  max-height:  300px;
 }
 
 .team .member img {
