@@ -37,6 +37,10 @@ body {
 img {
   max-width: 100%; }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
 a:focus,
 input:focus,
 textarea:focus,
