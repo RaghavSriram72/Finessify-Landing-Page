@@ -2,7 +2,7 @@
 $name = $_POST['name'];
 $visitor_email = $_POST['email'];
  
-$email_from = "contact@academiaedge.com";
+$email_from = "rsriram101@gmail.com";
 $email_subject = "New subscription!";
  
     $email_body = "New user name: $name.\n".
