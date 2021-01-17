@@ -1,2 +1,2 @@
 # Finessify
-Finessify App Launch Website
+Finessify App Launch Site
